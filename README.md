@@ -1,8 +1,8 @@
 # 10125326_DSA
 Bai tap CTDL&amp;GT- Nguyễn Quốc Việt -10125O.1
-- Họ tên: Nguyễn Văn A
-- MSV: 10123456
-- Lớp: 10125N.1
+- Họ tên: Nguyễn Quốc Việt
+- MSV: 10125326
+- Lớp: 10125O.1
 
 | Buổi | Nội dung | Thư mục | Trạng thái |
 |---|---|---|---|
